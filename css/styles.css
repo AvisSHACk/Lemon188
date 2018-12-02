@@ -429,7 +429,7 @@ button {
 
 /* line 1, dev/scss/components/_forms.scss */
 .main-form {
-  position: absolute;
+  position: fixed;
   top: 0;
   width: 100%;
   height: 100%;
@@ -502,7 +502,7 @@ button {
 
 /* line 13, dev/scss/components/_slideshow.scss */
 .main-slideshow__info {
-  position: fixed;
+  position: absolute;
   top: 0;
   width: 100%;
   height: 100%;
